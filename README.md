@@ -20,5 +20,5 @@ Follow this [notebook](tcga/dataset/crop_img_with_openslide.ipynb) to preprocess
 
 ### Train && Val
 After data download and pre-processing has been performed, 
-follow this [notebook](tcga/tcga_tmb.ipynb) to train and validate model. More informations about the training pipeline can be found inour paper.
+follow this [notebook](tcga/tcga_tmb.ipynb) to train and validate model. More information about the training pipeline can be found in our paper.
 
